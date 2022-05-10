@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47da783f.chunk.css",
+    "main.js": "/static/js/main.fb1b918f.chunk.js",
+    "main.js.map": "/static/js/main.fb1b918f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7451b9a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7451b9a1.js.map",
+    "static/css/2.d4115035.chunk.css": "/static/css/2.d4115035.chunk.css",
+    "static/js/2.290ebdf1.chunk.js": "/static/js/2.290ebdf1.chunk.js",
+    "static/js/2.290ebdf1.chunk.js.map": "/static/js/2.290ebdf1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d4115035.chunk.css.map": "/static/css/2.d4115035.chunk.css.map",
+    "static/css/main.47da783f.chunk.css.map": "/static/css/main.47da783f.chunk.css.map",
+    "static/js/2.290ebdf1.chunk.js.LICENSE.txt": "/static/js/2.290ebdf1.chunk.js.LICENSE.txt",
+    "static/media/InstagramIcon.d06ced51.png": "/static/media/InstagramIcon.d06ced51.png",
+    "static/media/TwitterIcon.7ce58bc5.png": "/static/media/TwitterIcon.7ce58bc5.png",
+    "static/media/WhatsappIcon.c557230b.png": "/static/media/WhatsappIcon.c557230b.png",
+    "static/media/baner.d15e2937.webm": "/static/media/baner.d15e2937.webm",
+    "static/media/favicon3.397f9285.png": "/static/media/favicon3.397f9285.png",
+    "static/media/logo2022.4a1c19b7.png": "/static/media/logo2022.4a1c19b7.png",
+    "static/media/onda-azul.90dd7812.png": "/static/media/onda-azul.90dd7812.png",
+    "static/media/prueba.bb680215.jpg": "/static/media/prueba.bb680215.jpg",
+    "static/media/robo1.5fdcf56d.png": "/static/media/robo1.5fdcf56d.png",
+    "static/media/robo2.12f786e9.png": "/static/media/robo2.12f786e9.png",
+    "static/media/robo3.7b8d02b7.png": "/static/media/robo3.7b8d02b7.png",
+    "static/media/robo4.89faae85.png": "/static/media/robo4.89faae85.png",
+    "static/media/vector2.0a0adac3.png": "/static/media/vector2.0a0adac3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7451b9a1.js",
+    "static/css/2.d4115035.chunk.css",
+    "static/js/2.290ebdf1.chunk.js",
+    "static/css/main.47da783f.chunk.css",
+    "static/js/main.fb1b918f.chunk.js"
+  ]
+}
